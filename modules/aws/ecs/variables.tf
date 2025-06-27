@@ -1,0 +1,1 @@
+// AWS ECS-specific variables will be defined here 

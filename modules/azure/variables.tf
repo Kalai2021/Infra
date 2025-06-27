@@ -1,0 +1,1 @@
+// Azure-specific variables will be defined here 

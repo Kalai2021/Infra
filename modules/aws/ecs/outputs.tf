@@ -1,0 +1,1 @@
+// AWS ECS-specific outputs will be defined here 

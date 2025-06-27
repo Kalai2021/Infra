@@ -98,3 +98,4 @@ gcp-credentials
 !package.json
 !tsconfig.json .terraform/
 .terraform.lock.hcl
+.terraform/

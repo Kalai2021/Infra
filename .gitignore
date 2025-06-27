@@ -96,4 +96,5 @@ azure-credentials
 gcp-credentials
 *.json
 !package.json
-!tsconfig.json 
+!tsconfig.json .terraform/
+.terraform.lock.hcl
